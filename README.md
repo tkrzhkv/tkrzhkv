@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkrzhkv
-- 👀 I’m interested in Fron-End development
+- 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning JS/React
 - 💞️ I’m looking to collaborate on some interesting or nice for learning projects
 - 📫 How to reach me 7umypka@gmail.com
